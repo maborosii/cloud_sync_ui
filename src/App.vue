@@ -9,7 +9,9 @@ export default {
   name: 'App'
 }
 </script>
-<script>
+
+// 用于百度统计
+<!-- <script>
 var _hmt = _hmt || [];
 (function () {
   var hm = document.createElement("script");
@@ -17,7 +19,7 @@ var _hmt = _hmt || [];
   var s = document.getElementsByTagName("script")[0];
   s.parentNode.insertBefore(hm, s);
 })();
-</script>
+</script> -->
 
 <style lang="scss">
 .el-dialog__wrapper {
